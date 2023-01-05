@@ -47,6 +47,7 @@ nav li {
   align-items: center;
   margin: 0 50px 200px 0;
   justify-content: space-between;
+  padding-left: 200px;
 }
 .banner-title {
   font-weight: 700;
